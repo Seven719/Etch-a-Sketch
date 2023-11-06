@@ -1,0 +1,19 @@
+body {
+	margin: 0px;
+	display: flex;
+}
+
+#container {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.gridRow {
+	padding: 10px;
+	border: 1px solid black;
+}
+
+.column {
+	padding: 10px;	
+	border: 1px solid black;
+}
